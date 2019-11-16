@@ -6,15 +6,7 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/11/16/default-1.png"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  navigation: []
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Get Waitlisted
