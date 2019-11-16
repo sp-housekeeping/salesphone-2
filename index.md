@@ -29,6 +29,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Bangalore
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2019/11/16/default-1.png"
 
 ---
 foo bar
