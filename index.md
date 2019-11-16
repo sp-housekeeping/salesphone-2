@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: SalesPhone -- it helps you find time to do more sales
+title: SalesPhone.ai (Coming Soon)
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: simple-header
