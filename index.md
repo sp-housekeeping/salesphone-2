@@ -22,7 +22,7 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   email_recipient: founders@salesphone.ai
-  content: Signup to learn more
+  content: Learn more
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Bangalore
