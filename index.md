@@ -22,13 +22,13 @@ page_sections:
     image: "/uploads/2019/11/16/marginalia-success.png"
     alt_text: Product Shot
   background_image: ''
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Bangalore
 - template: signup-bar
   block: cta-bar
   email_recipient: founders@salesphone.ai
-  content: ''
+  content: Signup to learn more
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Bangalore
 
 ---
 foo bar
