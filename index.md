@@ -25,6 +25,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Bangalore
+- template: signup-bar
+  block: cta-bar
+  email_recipient: founders@salesphone.ai
+  content: ''
 
 ---
 foo bar
